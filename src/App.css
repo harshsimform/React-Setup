@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.imgs {
+  margin-left: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.webpack-logo {
+  width: 280px;
+  height: 250px;
+}
+
+.react-logo {
+  width: 450px;
+  height: 300px;
+}
+
+.title {
+  color: rgb(87, 151, 202);
+  font-size: 70px;
+}
